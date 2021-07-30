@@ -1,2 +1,2 @@
-# Highest-Paid-Athletes-199-2020-
+# Highest-Paid-Athletes-1990-2020-
 In this notebook, I am attemting an EDA on a kaggle dataset with a list of the world's highest-paid athletes since the first list published by Forbes in 1990. I conducted my initial analysis with guidance from Parul Pandey's analysis on the same dataset. Note that records for 2001 are missing because of a change in reporting period from the full calendar year to June-to-June in 2002.
